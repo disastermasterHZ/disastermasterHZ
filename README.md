@@ -6,7 +6,7 @@
 
 ## Skills
 - **Languages:**  HTML 5, C#, Python
-- **Tools:** Github, Cloudflare Pages, Unity, VSCode, Spyder, Blender, A* Pathfinder Pro, Behavior Designer, Hotreload
+- **Tools:** Github, Cloudflare Pages, Unity, VSCode, Spyder, Blender, A* Pathfinder Pro, Behavior Designer, Hot reload
 
 ## Contact
 - **Portfolio:** [haydenzavala.com](https://haydenzavala.com)
